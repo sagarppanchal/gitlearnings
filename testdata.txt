@@ -6,5 +6,6 @@ Email : beaubhavikdrc@gmail.com
 User : beaubhavikdrc
 Token : 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
 
-
+ git config --global user.email "bhavik@drcsystems.com"
+ git config --global user.name "beaubhavikdrc"
 
