@@ -4,7 +4,7 @@ Github Information :
 ---------------------
 Email : beaubhavikdrc@gmail.com
 User : beaubhavikdrc
-Token : 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
+Token : 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
 
  git config --global user.email "bhavik@drcsystems.com"
  git config --global user.name "beaubhavikdrc"
