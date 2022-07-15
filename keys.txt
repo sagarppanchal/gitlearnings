@@ -7,7 +7,7 @@ github.com
 	Drc@1234
 
 	token : 
-		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
+		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
 
 GIT
 
@@ -23,7 +23,7 @@ GIT
 
 	##git remote add origin 
 
-	git remote add origin https://oauth2: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@github.com/sagarppanchal/gitlearnings.git
+	git remote add origin https://oauth2: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@github.com/sagarppanchal/gitlearnings.git
 
 	git config --global user.email "sagar.panchal@drcsystems.com"
 	git config --global user.name "sagardrc"
