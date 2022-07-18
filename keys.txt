@@ -15,11 +15,14 @@ GIT
 
 	git init
 	git clone https://oauth2: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@github.com/sagarppanchal/gitlearnings.git
+
+	//remove origin 
+		
+		git remote rm origin
 	
+	git remote add origin https://oauth2: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@github.com/sagarppanchal/gitlearnings.git
 
-	##git remote add origin 
-
-	git remote add origin https://oauth2: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@github.com/sagarppanchal/gitlearnings.git
+	git push --set-upstream origin dev
 
 	git config --global user.email "sagar.panchal@drcsystems.com"
 	git config --global user.name "sagardrc"
